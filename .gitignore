@@ -1,0 +1,4 @@
+minidb
+database.json
+database.json.tmp
+*.o
